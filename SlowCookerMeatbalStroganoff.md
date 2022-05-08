@@ -1,5 +1,5 @@
 # Slow Cooker Meatball Stroganoff
-=================================
+
 https://www.theseasonedmom.com/slow-cooker-meatball-stroganoff/
 
 Ingredients:
@@ -8,7 +8,7 @@ Ingredients:
 - 3 tablespoons Worcestershire sauce
 - 1 tablespoon minced or grated garlic
 - ½ teaspoon ground black pepper
-- 16 ounces sliced white mushrooms
+- 16 ounces sliced white mushrooms 
 - 1 large (or 2 small) onions, sliced
 - 24 ounces frozen fully-cooked meatballs (you do NOT need to thaw them)
 - ¼ cup sour cream
